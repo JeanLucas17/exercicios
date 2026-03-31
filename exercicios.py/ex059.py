@@ -1,6 +1,6 @@
 from time import sleep
 
-num1 = int(input("Digitie um numero: "))
+num1 = int(input("Digite um numero: "))
 num2 = int(input("Digite outro numero: "))
 
 print("Menu: \n [1] Soma \n [2] Multiplicação \n [3] Maior \n [4] Novos numeros \n [5] Sair do programa")
